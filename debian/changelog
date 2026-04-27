@@ -1,0 +1,5 @@
+libdareader (1.0) unstable; urgency=medium
+
+  * Convert packaging to native format for OBS git_deb_tar builds.
+
+ -- chenlinxuan <chenlinxuan@uniontech.com>  Sun, 05 Apr 2026 22:10:00 +0800
