@@ -1,3 +1,9 @@
+libdareader (1.0.0.lingmo.1) unstable; urgency=medium
+
+  * new release for Lingmo OS.
+
+ -- Lingmo OS Team <team@lingmo.org>  Fri, 01 May 2026 21:14:00 +0800
+
 libdareader (1.0) unstable; urgency=medium
 
   * Convert packaging to native format for OBS git_deb_tar builds.
